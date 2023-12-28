@@ -160,7 +160,7 @@ toggleWindSpeedUnit = (unit) => {
         month = {month}
         year = {year}
         />
-        <span className={styles["copyright"]}>&copy;2024 stunneagle &middot; Nottingham</span>
+        <span className={styles["copyright"]}>&copy;2024 Sulaiman Adejumo &middot; Nottingham</span>
     </div>
   );
 }
